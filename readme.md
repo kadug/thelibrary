@@ -25,7 +25,7 @@ Make Sure you have the following software installed:
 - And the go to your apache installation and find the file conf\extra\httpd-vhosts.conf and append 
 	```
 	<VirtualHost *:80>
-		ServerName library.localhost	
+		ServerName thelibrary.localhost	
 		DocumentRoot "C:/path/to/app/thelibrary/" 
 	</VirtualHost>
 	```
