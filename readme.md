@@ -1,4 +1,4 @@
-<p align="center"># Maniak Exercise</p>
+# Maniak Exercise
 
 ## Before Install
 
