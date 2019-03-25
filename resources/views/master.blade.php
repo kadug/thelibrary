@@ -53,6 +53,7 @@
 						$('#NewBookModal').modal('hide');
 						$('.alert.alert-success').text(data.message); 
 						$('.alert.alert-success').fadeIn().delay(2000).fadeOut('slow'); 
+						setTimeout(function(){window.location.reload();}, 2000);
 					}});
 				}
 			});
